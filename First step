@@ -1,0 +1,2 @@
+a = "Maluane"
+print("Hello", a)
